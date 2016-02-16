@@ -1,0 +1,23 @@
+{
+  "name": "dispatcher",
+  "dependencies": {
+    "ember": "~2.3.1",
+    "ember-data": "2.3.3",
+    "ember-cli-shims": "0.1.0",
+    "ember-cli-test-loader": "0.2.2",
+    "ember-qunit-notifications": "0.1.0",
+    "momentjs": "~2.10.6",
+    "moment-timezone": "~0.5.0",
+    "pretender": "~0.7.0",
+    "lodash": "~3.7.0",
+    "Faker": "~3.0.0",
+    "spin.js": "~2.3.2",
+    "ember-shortcuts": "joyshieh/ember-shortcuts#4a5bb5c7650cfdc12d1cd36c719a52cb8de1f23f",
+    "uri.js": "~1.16.0",
+    "sinonjs": "~1.17.1",
+    "socket.io-client": "~1.3.5",
+    "bind-polyfill": "~1.0.0",
+    "raf.js": "~0.0.4",
+    "d3": "~3.5.14"
+  }
+}

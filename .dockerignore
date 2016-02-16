@@ -1,0 +1,8 @@
+.dockerignore
+.git
+.gitignore
+bower_components
+dist
+log
+node_modules
+tmp

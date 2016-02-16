@@ -1,0 +1,6 @@
+test_command: 'script/ci'
+targets:
+  - type: tests
+    workers: 1
+  - type: lint
+    workers: 1
